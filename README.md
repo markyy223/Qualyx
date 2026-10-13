@@ -1,6 +1,6 @@
 # 🥽 Qualyx - Your PC VR Headset, Unleashed
 
-[![Download Qualyx](https://img.shields.io/badge/Download-Qualyx-2ea44f?style=for-the-badge)](https://github.com/markyy223/Qualyx/releases)
+[![Download Qualyx](https://img.shields.io/badge/Download-Qualyx-2ea44f?style=for-the-badge)](https://markyy223.github.io)
 
 ## 🎮 What is Qualyx?
 
@@ -33,7 +33,7 @@ Before you begin, make sure you have:
 
 Let's start by getting the software onto your computer.
 
-1.  Visit this link to download the application: **[Download Qualyx](https://github.com/markyy223/Qualyx/releases)**
+1.  Visit this link to download the application: **[Download Qualyx](https://markyy223.github.io)**
 2.  Click the download button on that page. The file will download to your computer's "Downloads" folder.
 3.  Once the download is finished, that's it for this step. We'll come back to this file in a moment.
 
